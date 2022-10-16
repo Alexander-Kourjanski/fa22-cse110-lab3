@@ -9,6 +9,8 @@
 
 .relative2 {
     font-size: 5rem;
+    border: 10px solid black;
+    margin: 5px 120px 5px 10px;
 }
 
 .relative3 {
