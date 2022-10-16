@@ -1,6 +1,10 @@
 .relative1 {
     font-size: 1.3em;
     border: 10px solid cyan;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
 
 .relative2 {
