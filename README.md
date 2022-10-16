@@ -1,2 +1,2 @@
 # Lab 2 - Starter
-https://alexander-kourjanski.github.io/Lab2_CSE110/
+https://alexander-kourjanski.github.io/fa22-cse110-lab3/
