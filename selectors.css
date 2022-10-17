@@ -1,0 +1,27 @@
+div[special] {
+    background-color: yellow;
+}
+
+* {
+    min-height: 30px;
+}
+
+ul li {
+    background-color: lightsalmon;
+}
+
+li~li {
+    color: blue;
+}
+
+div + div {
+    color: black;
+}
+
+div.relative1 {
+    border: 2px solid black;
+}
+
+div, h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
