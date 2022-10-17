@@ -4,3 +4,9 @@ font1 {
     font-family: 'Courier New', Courier, monospace;
     width: 80%;
 }
+
+@import url('https://fonts.google.com/specimen/PT+Sans');
+new_font {
+    font-family: 'PT Sans';
+    font-size: large;
+}
