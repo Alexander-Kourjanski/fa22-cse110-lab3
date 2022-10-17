@@ -1,0 +1,23 @@
+.button {
+    width: 1in;
+    height: 1in;
+    background-color: aqua;
+    border: 2px solid black;
+    color: darkblue;
+}
+
+.button:hover {
+    color: red;
+    background-color: white;
+}
+
+.activeclass {
+    border: 2px solid limegreen;
+    width: 1in;
+    height: 1in;
+    background-color: bisque;
+
+}
+.activeclass:active {
+    border: 4in solid black;
+}
